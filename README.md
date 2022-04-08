@@ -12,7 +12,7 @@ To copy the result:
 
 - Click on the "Copy" command in the "Edit" menu
 
-		OR
+		or
 
 1. Select the text in the window
 2. CTRL-C or right click-Copy
